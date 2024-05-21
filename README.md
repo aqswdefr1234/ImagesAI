@@ -1,2 +1,2 @@
 # ImagesAI
-# Automatic1111 Nodejs API통신
+Automatic1111 Nodejs API통신
